@@ -2,9 +2,9 @@
 <h3 align="center">A computer science studient from Brazil</h3>
 <img align="right" height="300px" width="300" alt="Coding" width="400" src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif">
 
-- 🔭 I’m currently studying on [CIn - UFPE](https://portal.cin.ufpe.br/)
+- 📚 I’m currently studying on [CIn - UFPE](https://portal.cin.ufpe.br/)
 
-- 🌱 I’m currently learning **Angular, SQL, Java**
+- 💻 I’m currently learning **Angular, SQL, Java**
 
 - 💬 Ask me about **C++, C, Python**
 
