@@ -22,9 +22,9 @@
 
 <div>
 
-  <p><img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomesel&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rodrigomesel" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigomesel&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rodrigomesel" /></p>
 
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rodrigomesel&show_icons=true&theme=dark&text_color=ffffff&locale=en"    alt="rodrigomesel" /></p>
+  <p>&nbsp;<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigomesel&show_icons=true&theme=dark&text_color=ffffff&locale=en"    alt="rodrigomesel" /></p>
   
 </div>
 
