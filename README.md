@@ -6,7 +6,7 @@
 
 - 💻 I’m currently learning **Angular, Python, Java**
 
-- 💬 Ask me about **C++, C, C#, .NET, SQL **
+- 💬 Ask me about **C++, C, C#, .NET, SQL**
 
 - 📫 How to reach me **romesel1@gmail.com**
 
