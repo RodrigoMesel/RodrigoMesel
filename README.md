@@ -4,9 +4,9 @@
 
 - 📚 I’m currently studying on [CIn - UFPE](https://portal.cin.ufpe.br/)
 
-- 💻 I’m currently learning **Angular, SQL, Java**
+- 💻 I’m currently learning **Angular, Python, Java**
 
-- 💬 Ask me about **C++, C, Python**
+- 💬 Ask me about **C++, C, C#, .NET, SQL **
 
 - 📫 How to reach me **romesel1@gmail.com**
 
