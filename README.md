@@ -3,7 +3,7 @@
 <img align="right" height="300px" width="300" alt="Coding" width="400" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=6c09b952588nnee5xfpd2ppmsyhhehdnml2r8csl9srnzqc6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 
 
-- 🔭 I’m currently working at [Encora](https://www.linkedin.com/company/encorainc/mycompany/)
+- 🔭 I’m currently working at [Encora](https://www.linkedin.com/company/encorainc/)
 
 - 📚 I’m studying at [CIN - UFPE](https://www.linkedin.com/school/cinufpe/)
 
